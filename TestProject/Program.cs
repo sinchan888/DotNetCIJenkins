@@ -13,6 +13,7 @@ namespace TestProject
             Console.WriteLine("Enter two numbers\n");
             int number1;
             int number2;
+			int n3;
             number1 = int.Parse(Console.ReadLine());
             number2 = int.Parse(Console.ReadLine());
 
